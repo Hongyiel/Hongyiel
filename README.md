@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hongyiel
 - 👀 I’m interested in Artificial intelligence
 - 🌱 I’m currently learning Keywork Spotting (KWS) for Artificial intelligence
-- 📫 How to reach me suhho@oregonstate.edu (secondary: suhhongyiel@gmail.com)
+- 📫 How to reach me suhhongyiel@gmail.com (secondary: suhho@oregonstate.edu )
 
 - 💞️ I’m looking to collaborate on A.I. project
 
